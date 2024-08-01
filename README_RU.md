@@ -2,7 +2,7 @@
 
 [tonutils/reverse-proxy](https://github.com/tonutils/reverse-proxy) в виде образа Docker
 
-[![Docker](https://img.shields.io/docker/cloud/build/m4l3vich/ton-reverse-proxy/scratch?label=Docker+Hub&style=flat)](https://hub.docker.com/r/m4l3vich/ton-reverse-proxy/builds)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/m4l3vich/ton-reverse-proxy-docker/docker-publish.yml)
 
 [English](README.md)
 
